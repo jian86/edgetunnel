@@ -1,4 +1,5 @@
-name = "v20250807"
+name = 'patient-wood-02e6'
 main = "_worker.js"
 compatibility_date = "2025-08-07"
+
 keep_vars = true
